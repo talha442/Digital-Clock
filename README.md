@@ -1,4 +1,4 @@
 # Digital-Clock
  Digital Clock Using Js
 
-<img src="./Digital clock.jpg" alt="Screenshot 1">
+<img src="./Digital clock.JPG" alt="Screenshot">
