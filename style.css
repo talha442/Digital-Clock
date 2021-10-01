@@ -1,0 +1,22 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', monospace;
+    font-size: 40px;
+    color: whitesmoke;
+}
+
+.main {
+    width: 40%;
+    -webkit-box-shadow: 10px 9px 9px -1px rgba(204, 204, 204, 1);
+    -moz-box-shadow: 10px 9px 9px -1px rgba(204, 204, 204, 1);
+    box-shadow: 10px 9px 9px -1px rgba(204, 204, 204, 1);
+    background: #4b6cb7;
+    background: -webkit-linear-gradient(to right, #182848, #4b6cb7);
+    background: linear-gradient(to right, #182848, #4b6cb7);
+}
+
+.item1 {
+    font-weight: 900;
+    font-size: 45px;
+}
